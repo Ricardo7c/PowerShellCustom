@@ -1,5 +1,9 @@
 # PowerShellCustom
-Gostei do visual do terminal do kali-linux e resolvi customizar o meu powershell
+Gostei do visual do terminal do kali-linux e resolvi customizar o meu powershell.
+
+Instação:
+Crie uma pasta chamada "WindowsPowerShell" na pasta de documentos e coloco o arquivo "Microsoft.PowerShell_profile.ps1" lá dentro.
+Se preciso carregue o perfil com o comando ". $profile"
 
 O modo de exibição do caminho da pasta é por padrão abreviado.
 <div align="center">
