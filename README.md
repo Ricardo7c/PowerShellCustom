@@ -1,4 +1,4 @@
-# PowerShellCustom
+# <img src="https://github.com/user-attachments/assets/915f2f82-fa75-40de-8ff1-9201d828e8dd" style="width:30px; height:auto;"> PowerShellCustom
 Gostei do visual do terminal do kali-linux e resolvi customizar o meu powershell.
 
 Instação:
